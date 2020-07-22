@@ -16,8 +16,16 @@ Before you open source your project, consider the effort required to maintain it
 
 ## FAQ
 
-#### Who owns the code I contribute to open source projects?
-
+### What is the purpose of this repository?
+This repo exists to document our project and is viewable to all to learn and possibly contribute to our codebase
+### Who should someone contact if they have questions?
+You can contact jabari.akuffo@gmail.com
+### How should someone make contact if they have questions?
+You may either send a pull request or send me an email directly
+### What are the first steps to getting started open sourcing a project?
+First create a readme as well as some contributor guidelines a code of conduct and be sure to read pull requests, issues and stay active with the community.
+### How does this repository relate to other projects and business goals?
+This repository lists non-critical code that can be viewable by the public such as layouts and animations so you can see how an interesting feature or design was coded.
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
